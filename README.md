@@ -20,15 +20,15 @@ It allows you to create a customizable Discord activity that can display informa
 
 ### Out The Box
 
-![How It Looks Out Of The Box](images/OtterVizion Preview.png)
+![How It Looks Out Of The Box](images/OtterVizion%20Preview.png)
 
 ### Changing Json
 
-![Changing Config.Json](images/Changing the JSON.png)
+![Changing Config.Json](images/Changing%20the%20JSON.png)
 
 ### Results/Button Showcase
 
-![Results](images/Changing Json results.png)
+![Results](images/Changing%20Json%20results.png)
 ## Requirements
 
 - Node.js
