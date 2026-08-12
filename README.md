@@ -16,7 +16,19 @@ It allows you to create a customizable Discord activity that can display informa
 -node.js
 -Discord RPC
 -dotenv
+## Screenshots
 
+### Out The Box
+
+![How It Looks Out Of The Box](images/OtterVizion Preview.png)
+
+### Changing Json
+
+![Changing Config.Json](images/Changing the JSON.png)
+
+### Results/Button Showcase
+
+![Results](images/Changing Json results.png)
 ## Requirements
 
 - Node.js
