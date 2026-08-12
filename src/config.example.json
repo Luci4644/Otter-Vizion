@@ -1,0 +1,16 @@
+{
+  "details": "Test",
+  "state": "This is a Test For the Otter Vizion 0.1",
+  "largeImageKey": "logo",
+  "largeImageText": "Otter Vizion",
+  "buttons": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/"
+    },
+    {
+      "label": "Website",
+      "url": "https://luci-the-ott.web.app/"
+    }
+  ]
+}
