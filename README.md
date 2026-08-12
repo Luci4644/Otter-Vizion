@@ -1,6 +1,7 @@
 # OTTER VIZION
 Otter Vizion is a lightweight Discord Rich Presence application built with Node.js.
 It allows you to create a customizable Discord activity that can display information such as what youre doing, custom text, images, and clickable buttons.
+Its been done before, however I just wanted something to do as practice
 ## Features
 
 - Custom Discord Rich Presence
